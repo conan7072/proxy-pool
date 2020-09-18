@@ -1,3 +1,6 @@
+#来源
+#https://www.pythonf.cn/read/26504
+
 # ProxyPool
 
 ![build](https://github.com/Python3WebSpider/ProxyPool/workflows/build/badge.svg)
